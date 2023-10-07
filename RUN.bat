@@ -1,0 +1,1 @@
+start srcds.exe -game nmrih -secure -console -maxplayers 8 -port 27015 +map nmo_broadway
