@@ -110,6 +110,7 @@ nmo_lighthouse_v2
 nmo_l4d_the_sacrifice_v1 
 
 
+nmo_mayday_v4
 nmo_minecraft_village_v3
 nmo_mansion_v1_eng
 nmo_miner_detour_v3
